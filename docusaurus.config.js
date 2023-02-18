@@ -26,6 +26,11 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
+  // GIT_USER=<Jodlei> \
+  // CURRENT_BRANCH=master \
+  // USE_SSH=true \
+  // npm run publish-gh-pages
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
